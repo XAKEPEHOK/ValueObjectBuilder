@@ -1,0 +1,22 @@
+{
+  "name": "xakepehok/ValueObjectBuilder",
+  "description": "This helper can create object from passed classname and value, or return null, if passed value is also null",
+  "keywords": ["ValueObject", "builder", "null", "helper"],
+  "type": "library",
+  "minimum-stability": "stable",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Timur Kasumov aka XAKEPEHOK",
+      "email": "icq-475204@ya.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "XAKEPEHOK\\ValueObjectBuilder\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.2.0"
+  }
+}
