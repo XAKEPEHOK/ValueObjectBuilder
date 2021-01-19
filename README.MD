@@ -1,3 +1,8 @@
+Installation
+```shell script
+composer require xakepehok/value-object-builder
+```
+
 Example without VOB:
 ```php
 <?php

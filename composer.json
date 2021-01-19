@@ -1,5 +1,5 @@
 {
-  "name": "xakepehok/ValueObjectBuilder",
+  "name": "xakepehok/value-object-builder",
   "description": "This helper can create object from passed classname and value, or return null, if passed value is also null",
   "keywords": ["ValueObject", "builder", "null", "helper"],
   "type": "library",
